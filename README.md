@@ -3,6 +3,7 @@
 This Assignment is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
 
 **Part 1: Create visualizations using Matplotib, Seaborn & Folium**
+
   TASK 1.1: Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year.
 
   TASK 1.2: Plot different lines for categories of vehicle type and analyse the trend to answer the question “Is there a noticeable difference in sales trends between different vehicle types during recession periods?”
